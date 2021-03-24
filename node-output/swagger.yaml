@@ -396,7 +396,7 @@
       "post" : {
         "tags" : [ "user" ],
         "summary" : "Create user",
-        "description" : "bla bla",
+        "description" : "bla bla ble",
         "operationId" : "createUser",
         "produces" : [ "application/json", "application/xml" ],
         "parameters" : [ {
